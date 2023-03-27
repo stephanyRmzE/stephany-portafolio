@@ -1,0 +1,21 @@
+@import url('https://fonts.googleapis.com/css2?family=Alegreya:wght@400;500;600;700;800;900&display=swap');
+
+:root {
+  --font-base: 'Alegreya',serif;
+  --primary-color: #fafafe;
+  --secondary-color: #58296a;
+  --tertiary-color: #B283B1;
+  --quaternary-color: #dcc1db;
+  --black-color: #030303;
+  --lightGray-color: #e4e4e4;
+  --gray-color: #6b7688;
+  --brown-color: #46364a;
+  --white-color: #ffffff;
+}
+
+* {
+  box-sizing: border-box;
+  padding: 0;
+  margin: 0;
+  scroll-behavior: smooth;
+}
